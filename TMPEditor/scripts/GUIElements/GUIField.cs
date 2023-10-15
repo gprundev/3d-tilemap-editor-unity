@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace Editor.scripts.GUIElements
+namespace TMPEditor.scripts.GUIElements
 {
     public class GUIField
     {
