@@ -1,8 +1,8 @@
 using System.Collections.Generic;
-using Editor.scripts;
+using TMPEditor.scripts;
 using UnityEngine;
 
-namespace Editor.MonoBehaviour
+namespace TMPEditor.MonoBehaviour
 {
     [ExecuteInEditMode]
     public class TileMapHolder : UnityEngine.MonoBehaviour

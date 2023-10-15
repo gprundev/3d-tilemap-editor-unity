@@ -1,7 +1,7 @@
-﻿using Editor.MonoBehaviour;
+﻿using TMPEditor.MonoBehaviour;
 using UnityEngine;
 
-namespace Editor.scripts.Controllers
+namespace TMPEditor.scripts.Controllers
 {
     public class NodeController
     {
