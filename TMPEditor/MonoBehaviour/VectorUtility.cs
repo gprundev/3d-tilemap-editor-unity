@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Editor.MonoBehaviour
+namespace TMPEditor.MonoBehaviour
 {
     public static class VectorUtility
     {

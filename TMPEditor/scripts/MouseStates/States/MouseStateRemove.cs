@@ -1,8 +1,8 @@
-﻿using Editor.MonoBehaviour;
+﻿using TMPEditor.MonoBehaviour;
 using UnityEngine;
 using UnityEditor;
 
-namespace Editor.scripts.MouseStates.States
+namespace TMPEditor.scripts.MouseStates.States
 {
     public class MouseStateRemove : MouseState
     {

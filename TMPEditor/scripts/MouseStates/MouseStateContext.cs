@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Editor.scripts.MouseStates
+namespace TMPEditor.scripts.MouseStates
 {
     public class MouseStateContext
     {

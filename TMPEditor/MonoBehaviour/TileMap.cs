@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace Editor.MonoBehaviour
+namespace TMPEditor.MonoBehaviour
 {
     [ExecuteInEditMode]
     public class TileMap : UnityEngine.MonoBehaviour

@@ -1,4 +1,4 @@
-namespace Editor.scripts.MouseStates
+namespace TMPEditor.scripts.MouseStates
 {
     public abstract class MouseState
     {

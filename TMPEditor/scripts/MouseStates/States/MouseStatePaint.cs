@@ -1,8 +1,8 @@
-﻿using Editor.MonoBehaviour;
+﻿using TMPEditor.MonoBehaviour;
 using UnityEditor;
 using UnityEngine;
 
-namespace Editor.scripts.MouseStates.States
+namespace TMPEditor.scripts.MouseStates.States
 {
     public class MouseStatePaint : MouseState
     {

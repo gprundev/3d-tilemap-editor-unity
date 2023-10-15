@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Editor.scripts.MouseStates.States
+namespace TMPEditor.scripts.MouseStates.States
 {
     public class MouseStateDefault : MouseState
     {

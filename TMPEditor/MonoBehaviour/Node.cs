@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Editor.MonoBehaviour
+namespace TMPEditor.MonoBehaviour
 {
     [ExecuteInEditMode]
     public class Node : UnityEngine.MonoBehaviour

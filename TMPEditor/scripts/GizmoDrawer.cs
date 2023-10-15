@@ -1,9 +1,9 @@
-using Editor.MonoBehaviour;
-using Editor.scripts.MouseStates;
+using TMPEditor.MonoBehaviour;
+using TMPEditor.scripts.MouseStates;
 using UnityEditor;
 using UnityEngine;
 
-namespace Editor.scripts
+namespace TMPEditor.scripts
 {
     public static class GizmoDrawer
     {

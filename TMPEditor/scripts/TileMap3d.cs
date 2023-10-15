@@ -1,12 +1,12 @@
-using Editor.MonoBehaviour;
-using Editor.scripts.Controllers;
-using Editor.scripts.GUIElements;
-using Editor.scripts.MouseStates;
-using Editor.scripts.MouseStates.States;
+using TMPEditor.MonoBehaviour;
+using TMPEditor.scripts.Controllers;
+using TMPEditor.scripts.GUIElements;
+using TMPEditor.scripts.MouseStates;
+using TMPEditor.scripts.MouseStates.States;
 using UnityEditor;
 using UnityEngine;
 
-namespace Editor.scripts
+namespace TMPEditor.scripts
 {
     public class TileMap3d : EditorWindow
     {
